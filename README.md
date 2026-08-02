@@ -10,7 +10,6 @@ Passionate about building intelligent software, solving real-world problems with
 
 <br>
 
-[GitHub](https://github.com/Lakshay-M07) •
 [LinkedIn](https://www.linkedin.com/in/lakshay-mohata-35024a320/) •
 [Email](mailto:lakshay.mohata@gmail.com)
 

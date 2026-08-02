@@ -14,8 +14,12 @@ Passionate about building intelligent software, solving real-world problems with
 [LinkedIn](https://www.linkedin.com/in/lakshay-mohata-35024a320/) •
 [Email](mailto:lakshay.mohata@gmail.com)
 
-![](https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg)
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg" />
 
-![](https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-languages.svg)
+<br><br><br><br>
 
-![](https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-isocalendar.svg)
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-languages.svg" />
+
+<br><br><br><br>
+
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-isocalendar.svg" />

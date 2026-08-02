@@ -1,6 +1,6 @@
 # Hi, I'm Lakshay Mohata 👋
 
-### AI & Data Science Student @ Thapar Institute of Engineering & Technology
+### AI & Data Science Student 
 
 I'm passionate about building AI applications, voice agents, and developer tools while actively learning open source and machine learning.
 

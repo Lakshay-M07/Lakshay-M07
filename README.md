@@ -16,7 +16,7 @@ Passionate about building intelligent software, solving real-world problems with
 
 <img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg" />
 
-<br><br><br><br>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-languages.svg" />
 

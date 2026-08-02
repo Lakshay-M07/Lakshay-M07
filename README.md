@@ -1,27 +1,37 @@
+<div align="center">
+
 # Hi, I'm Lakshay Mohata 👋
 
-### AI & Data Science Student 
+### AI & Data Science Student
 
-I'm passionate about building AI applications, voice agents, and developer tools while actively learning open source and machine learning.
+Passionate about building intelligent software, solving real-world problems with AI, and contributing to open source.
 
-- 🤖 Currently building AI and LLM-based projects
-- 🌱 Learning Deep Learning, MLOps & Open Source
-- 🏆 Hackathon enthusiast (SIH & Eclipse Hackathon)
-- 💻 Interested in AI, Backend Development and Systems
-- 📫 Reach me: **lakshay.mohata@gmail.com**
+**Large Language Models • Machine Learning • AI Engineering • Backend Development • Distributed Systems**
+
+<br>
+
+[GitHub](https://github.com/Lakshay-M07) •
+[LinkedIn](https://www.linkedin.com/in/lakshay-mohata-35024a320/) •
+[Email](mailto:lakshay.mohata@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg" />
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg" width="100%" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-languages.svg" />
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-introduction.svg" width="100%" />
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-isocalendar.svg" />
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-languages.svg" width="100%" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-isocalendar.svg" width="100%" />
 
 </div>

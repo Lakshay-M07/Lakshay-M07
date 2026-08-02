@@ -13,6 +13,8 @@ Passionate about building intelligent software, solving real-world problems with
 [LinkedIn](https://www.linkedin.com/in/lakshay-mohata-35024a320/) •
 [Email](mailto:lakshay.mohata@gmail.com)
 
+<br>
+
 <img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg" />
 
 <br><br>

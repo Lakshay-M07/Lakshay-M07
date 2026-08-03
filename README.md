@@ -13,37 +13,41 @@ Passionate about building intelligent software, solving real-world problems with
 [LinkedIn](https://www.linkedin.com/in/lakshay-mohata-35024a320/) •
 [Email](mailto:lakshay.mohata@gmail.com)
 
+</div>
 
 
-## 💻 Skills
+## ⚡ Tech Stack
 
-### 🧠 AI & Machine Learning
+---
+
+### AI & Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-<p>
-🤗 Hugging Face • OUMI • Ollama • Transformers
-</p>
-
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
 </p>
 
-### 🌐 Development
+### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" />
 </p>
 
-<br>
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase,supabase" />
+</p>
 
 
+---
 
-<br>
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg" />
 
@@ -51,6 +55,8 @@ Passionate about building intelligent software, solving real-world problems with
 
 <img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-languages.svg" />
 
-<br><br><br><br>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-isocalendar.svg" />
+
+</div>

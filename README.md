@@ -13,6 +13,36 @@ Passionate about building intelligent software, solving real-world problems with
 [LinkedIn](https://www.linkedin.com/in/lakshay-mohata-35024a320/) •
 [Email](mailto:lakshay.mohata@gmail.com)
 
+
+
+## 💻 Skills
+
+### 🧠 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+</p>
+
+<p>
+🤗 Hugging Face • OUMI • Ollama • Transformers
+</p>
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
+</p>
+
+### 🌐 Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,firebase,supabase" />
+</p>
+
+<br>
+
+
+
 <br>
 
 <img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics.svg" />

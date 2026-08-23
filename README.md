@@ -57,6 +57,6 @@ Passionate about building intelligent software, solving real-world problems with
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-isocalendar.svg" width="900" />
+<img src="https://raw.githubusercontent.com/Lakshay-M07/metrics/master/github-metrics-isocalendar.svg" width="600" />
 
 </div>

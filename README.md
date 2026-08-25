@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lakshay Mohata👋
+# Hi, I'm Lakshay Mohata 👋
 
 ### AI & Data Science Student
 
